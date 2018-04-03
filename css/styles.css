@@ -1,0 +1,33 @@
+.jumbotron{
+  background-color: grey;
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: teal;
+}
+
+/*.movies{
+  display: none;
+}*/
+
+img{
+  height: 150px;
+  width: 150px;
+}
+
+
+footer{
+  text-align: center;
+}
+
+.button{
+  color: red
+}
+
+.item01{
+  /*display: none;*/
+}
